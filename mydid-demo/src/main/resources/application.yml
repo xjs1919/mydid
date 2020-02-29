@@ -1,0 +1,7 @@
+server:
+  port: 8081
+mydid:
+  # 服务的地址
+  service_url: http://localhost:8080/id/get
+  # 本地缓存的id的数量
+  cache_size: 200

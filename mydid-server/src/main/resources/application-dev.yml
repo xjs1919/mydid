@@ -1,0 +1,5 @@
+server:
+  port: 8080
+leaf:
+  zk:
+    address: 192.168.74.128:2181

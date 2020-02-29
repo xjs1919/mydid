@@ -1,0 +1,8 @@
+/mydid-demo/target
+/mydid-sdk/target
+/mydid-server/target
+/*.iml
+/mydid-demo/*.iml
+/mydid-sdk/*.iml
+/mydid-server/*.iml
+/.idea

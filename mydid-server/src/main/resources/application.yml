@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mydid
+  profiles:
+    active: dev
